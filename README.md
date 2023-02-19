@@ -37,7 +37,7 @@ Es probable que la dispersión geografica haga un efecto rebote a la hora de com
 
 En el quinto grafico comparo la media de robos de coches. he de decir que aqúi no he encontrado grandes sorpresas ya que he comparado dos estados con similitud en los habitantes y densidad poblacional como son Ohio y Pensilvania donde su correlación es bastante perfecta. Es decir, no hay ni por parte de uno ni por el otro datos estramboticos que puedan dar lugar a conclusiones sorprendentes.
 
-Y por último he hecho un bloxpot.
+Y por último he hecho un sexto grafico, exactamente un bloxpot.
 
 ![image](https://user-images.githubusercontent.com/117199136/219952170-519e9c7f-c7f4-4716-85bf-c0a9944e7fa9.png)
 
@@ -51,7 +51,7 @@ Q3 tercer quartil está sobre los  210
 
 Teniendo esto saco el IQR=Q1-Q3 dandome 160
 
-Y para fianlizar obtengo el rango al que estoy dispuesto que mis datos se dispersen para poder hacer una analisis más exahustivo Q3+1.5*IQR= 440
+Y para finalizar obtengo el rango al que estoy dispuesto que mis datos se dispersen para poder hacer una analisis más exahustivo Q3+1.5*IQR= 440
 
 Por lo que los datos de los estados California ,Texas y Florida los voy a descatar debido a que están demasiado dispersos. Esto se puede deber a que la base de datos obtenida puede tener algún error de datos o calculo y por tanto habría que observarlo con más detenimiento o si por el contrario es Tableau que en su formato de comas ha generado datos completamente inusuales.
 
